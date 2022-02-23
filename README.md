@@ -1,56 +1,38 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Portfolio - Bootstrap version
 
-# Project Name
-
-> Description the project.
-
+> As part of our journey to become great professional developers, we're building together a Bootstrap clone of our portfolio.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: HTML
+- Frameworks: Bootstrap
+- Technologies used: git, GitHub
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+<!-- [Live Demo Link](https://) -->
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
+To get a local copy up and running follow these simple steps:
 
 ### Deployment
 
 
-
 ## Authors
 
-👤 **Author1**
+👤 **Rio**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@razvanso](https://github.com/razvanso)
+- Twitter: [@RioRazvan](https://twitter.com/RioRazvan)
+- LinkedIn: [Razvan Rio](https://www.linkedin.com/in/razvan-rio/)
 
-👤 **Author2**
+👤 **Lekan Jimoh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@d2ndjim](https://github.com/d2ndjim)
+- Twitter: [@d2ndjim_](https://twitter.com/d2ndjim_)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/lekanj)
 
 ## 🤝 Contributing
 
@@ -64,9 +46,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- README template from [Microverse](https://github.com/microverseinc/readme-template)
+- Linter setup from [Microverse](https://github.com/microverseinc/linters-config/tree/master/html-css)
 
 ## 📝 License
 
