@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.contact {
+  background: #6070ff url(images/contact-form-background-shapes-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: 89.63% 85.28%;
+  background-position: 30px 70px;
+}
+
+.portfolio {
+  background-color: #f7f7f9;
+}
+
+.intro {
+  background: white url(images/hero-bg-shapes-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: 97.04% 85.28%;
+  background-position: 35px;
+}
